@@ -6,3 +6,13 @@ output: html_document
 ---
 
 ## Final Project Proposal
+
+“The Lasting Legacy of Redlining” aims to examine the long-term effects of redlining practices on racial disparities within many different metropolitan areas of the United States. My goal with this project is to analyze data on the practice of red-lining which occurred in the 20th century throughout the United States. The practice of red-lining was implemented after the abolishment of slavery and one which aimed to prevent or prohibit individuals of color from purchasing properties in certain neighborhoods. This unethical practice of segregation continues to manifest issues that have persisted since its inception. My research will investigate how the legacy of redlining is influencing current demographic and socioeconomic conditions. These include but are not limited to housing, wealth inequality and access to resources. The data that I’ll be utilizing is from the Mapping Inequality project, the study will analyze 2020 population estimates by race and ethnicity within zones assigned different redlining grades by the Home Owners Loan Corporation (HOLC) from 1935-40. I’m particularly interested in analyzing the impact of redlining on wealth inequality which I’ll attempt to analyze utilizing data on the appreciation of residential real estate properties in certain areas in comparison to areas that are comprised primarily of minority populations. I hope this project will give better insight on the factors that have contributed to systematic inequality and its persistence in our modern society. Throughout my life I’ve heard a saying which has resonated with me when I decided to embark on this project which states “A person is a product of their environment”. I believe this statement to be in fact true and I concur that redlining is a practice that leads the proliferation of people with similar disadvantaged backgrounds living in one area often resulting in concentrated poverty and perpetuating cycles of socioeconomic disadvantages.
+
+Data Sources:
+
+https://github.com/fivethirtyeight/data/tree/master/redlining
+
+https://projects.fivethirtyeight.com/redlining/
+
+https://fred.stlouisfed.org/series/MSPUS
